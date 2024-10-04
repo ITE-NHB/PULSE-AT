@@ -1,0 +1,33 @@
+{
+    "before" : {
+        "gas central heating, standard boiler" :                        0.8,
+        "gas central heating, condensing boiler" :                      0.8,
+        "gas central heating, condensing boiler, with solar thermal" :  0.8,
+        "wood central heating" :                                        0.72,
+        "pellets central heating, with solar thermal":                  0.72,
+        "oil central heating, standard boiler" :                        0.76,
+        "oil central heating, condensing boiler" :                      0.76,
+        "single stoves oil" :                                           0.76,
+        "district heating" :                                            0.91,
+        "pellets central heating" :                                     0.72,
+        "electric direct heating, with solar thermal" :                 1,
+        "electric direct heating" :                                     1,
+        "heat pump" :                                                   3.0
+    }
+    ,
+    "after" : {   
+        "district heating" :                                            0.92,
+        "gas central heating, standard boiler" :                        0.93,
+        "gas central heating, condensing boiler" :                      0.93,
+        "gas central heating, condensing boiler, with solar thermal" :  0.93,
+        "oil central heating, standard boiler" :                        0.90,
+        "oil central heating, condensing boiler" :                      0.90,
+        "single stoves oil" :                                           0.90,
+        "wood central heating" :                                        0.75,
+        "pellets central heating" :                                     0.75,
+        "pellets central heating, with solar thermal":                  0.75,
+        "electric direct heating, with solar thermal" :                 1,
+        "electric direct heating" :                                     1,
+        "heat pump" :                                                   3.3
+    }
+}

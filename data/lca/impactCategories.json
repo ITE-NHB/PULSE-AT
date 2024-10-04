@@ -1,0 +1,21 @@
+[
+    "EF v3.0 EN15804, acidification, accumulated exceedance (ae)",
+    "EF v3.0 EN15804, climate change, global warming potential (GWP100)",
+    "EF v3.0 EN15804, climate change: biogenic, global warming potential (GWP100)",
+    "EF v3.0 EN15804, climate change: fossil, global warming potential (GWP100)",
+    "EF v3.0 EN15804, climate change: land use and land use change, global warming potential (GWP100)",
+    "EF v3.0 EN15804, ecotoxicity: freshwater, comparative toxic unit for ecosystems (CTUe)",
+    "EF v3.0 EN15804, particulate matter formation, impact on human health",
+    "EF v3.0 EN15804, eutrophication: marine, fraction of nutrients reaching marine end compartment (N)",
+    "EF v3.0 EN15804, eutrophication: freshwater, fraction of nutrients reaching freshwater end compartment (P)",
+    "EF v3.0 EN15804, eutrophication: terrestrial, accumulated exceedance (AE)",
+    "EF v3.0 EN15804, human toxicity: carcinogenic, comparative toxic unit for human (CTUh)",
+    "EF v3.0 EN15804, human toxicity: non-carcinogenic, comparative toxic unit for human (CTUh)",
+    "EF v3.0 EN15804, ionising radiation: human health, human exposure efficiency relative to u235",
+    "EF v3.0 EN15804, land use, soil quality index",
+    "EF v3.0 EN15804, ozone depletion, ozone depletion potential (ODP)",
+    "EF v3.0 EN15804, photochemical ozone formation: human health, tropospheric ozone concentration increase",
+    "EF v3.0 EN15804, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",
+    "EF v3.0 EN15804, material resources: metals/minerals, abiotic depletion potential (ADP): elements (ultimate reserves)",
+    "EF v3.0 EN15804, water use, user deprivation potential (deprivation-weighted water consumption)"
+]
