@@ -1,7 +1,7 @@
 # PULSE-AT - Version 1.0
 
 ## Concept
-This model allows for the “Prospective Upscaling of Life cycle Scenarios and Environmental impacts of Austrian buildings” (PULSE-AT). In other words, it aims at calculating the enviromental impacts of the building stock of a country (in this case Austria) based on different parameters and scenarios. Information on future material stocks and flows, energy and water consumption, is also calculated by the model. It combines dynamic material flow analysis (MFA) and life cycle assessment (LCA) methods.
+This model allows for the “Prospective Upscaling of Life cycle Scenarios and Environmental impacts of Austrian buildings” (PULSE-AT). In other words, it aims at calculating the enviromental impacts of the building stock of a country (in this case Austria) based on different parameters and scenarios. Information on future material stocks and flows, energy and water consumption, is also calculated by the model. It combines dynamic material flow analysis (MFA) and prospective life cycle assessment (LCA) methods.
 
 This first version of PULSE-AT was fully described in the following publication:
 
