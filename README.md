@@ -5,7 +5,7 @@ This model allows for the “Prospective Upscaling of Life cycle Scenarios and E
 
 This first version of PULSE-AT was fully described in the following publication:
 
-Alaux, N., Schwark, B., Hörmann, M., Saade, M.R.M., Passer, A., 2024. Assessing the prospective environmental impacts and circularity potentials of building stocks: An open-source model from Austria (PULSE-AT). _Journal of Industrial Ecology_, 14 (1). https://doi.org/10.1111/jiec.13558.
+Alaux, N., Schwark, B., Hörmann, M., Ruschi Mendes Saade, M., Passer, A. (2024). Assessing the prospective environmental impacts and circularity potentials of building stocks: An open-source model from Austria (PULSE-AT). _Journal of Industrial Ecology_, 1–14. https://doi.org/10.1111/jiec.13558
 
 Please cite this article when further using the model, its input files or its results (see license for more information).
 
