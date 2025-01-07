@@ -17,13 +17,17 @@ The Software is provided only as a source.
 In case of using the Software for a publication or other results obtained through the use of the Software, user should cite the Software as follows:
 
 @article{Alaux2024,
-   author = {Nicolas Alaux and Benedict Schwark and Marius Hörmann and Marcella Ruschi Mendes Saade and Alexander Passer},
-   doi = {https://doi.org/10.1111/jiec.13558},
-   issue = {1},
-   journal = {Journal of Industrial Ecology},
-   title = {Assessing the prospective environmental impacts and circularity potentials of building stocks: An open-source model from Austria (PULSE-AT)},
-   volume = {14},
-   year = {2024},
+author = {Alaux, Nicolas and Schwark, Benedict and Hörmann, Marius and Ruschi Mendes Saade, Marcella and Passer, Alexander},
+title = {Assessing the prospective environmental impacts and circularity potentials of building stocks: An open-source model from Austria (PULSE-AT)},
+journal = {Journal of Industrial Ecology},
+volume = {28},
+number = {6},
+pages = {1435-1448},
+keywords = {building stock model, carbon reduction strategy, circular economy, industrial ecology, material flow analysis (MFA), prospective life cycle assessment (LCA)},
+doi = {https://doi.org/10.1111/jiec.13558},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.13558},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/jiec.13558},
+year = {2024}
 }
 
 Every user of the Software could communicate to the developers alexander.passer@tugraz.at his or her remarks as to the use of the Software.
